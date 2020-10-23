@@ -8,7 +8,7 @@ This 'repo' contains course notes, assignments and solved solution exerises in t
 - Part 3 : AI/ML in Finance/Banking
   - This section covers practical projects on AI/ML applications in Finance. We will cover application of Deep Neural Networks such as Long Short Term Memory (LSTM) networks to perform stock price predictions. In addition, we will cover unsupervised machine learning strategies such as K-Means Clustering and Principal Components Analysis to perform Baking Customer Segmentation or Clustering. Furthermore, we will cover the basics of Natural Language Processing (NLP) and apply it to perform stocks sentiment analysis.
 
-**Learning Outcome**
+##**Learning Outcome**
 - Master Python 3 programming fundamentals for Data Science and Machine Learning with focus on Finance.
 - Understand how to leverage the power of Python to apply key financial concepts such as calculating daily portfolio returns, risk and Sharpe ratio.
 - Understand the theory and intuition behind Capital Asset Pricing Model (CAPM), Markowitz portfolio optimization, and efficient frontier.
